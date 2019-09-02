@@ -28,9 +28,9 @@ Pada percobaan kedua masih meneruskan pada percobaan kedua namun ada penambahan 
 
 ![contoh screenshot](img/2.PNG)
 
-Contoh link kode program class SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan1/SepedaGunung1841720128Arifin.java)
+Contoh link kode program class SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan2/SepedaGunung1841720128Arifin.java)
 
-Contoh link kode program class SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan1/SepedaDemo1841720128Arifin.java)
+Contoh link kode program class SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan2/SepedaDemo1841720128Arifin.java)
 
 ## Pertanyaan
 
