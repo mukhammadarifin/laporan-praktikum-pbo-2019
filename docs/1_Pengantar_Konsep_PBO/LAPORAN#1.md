@@ -69,13 +69,14 @@ Contoh link kode program class SepedaDemo : [ini contoh link ke kode program](..
 
 ![contoh screenshot](img/3.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
-
+Contoh link kode program class T1Meja : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Tugas/T1Meja1841720128Arifin.java)
 
 
 ![contoh screenshot](img/4.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program class T1MejaBelajar : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Tugas/T1MejaBelajar1841720128Arifin.java)
+
+Contoh link kode program class T1MejaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Tugas/T1MejaDemo1841720128Arifin.java)
 
 ## Kesimpulan
 
