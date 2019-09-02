@@ -10,6 +10,6 @@
 
 |  |  |
 |--|--|
-| NIM | ***1841720128*** |
-| Nama Lengkap | ***Mukhammad Arifin*** |
+| NIM | 1841720128 |
+| Nama Lengkap | [Mukhammad Arifin](https://github.com/mukhammadarifin) |
 | Kelas | TI-2C |
