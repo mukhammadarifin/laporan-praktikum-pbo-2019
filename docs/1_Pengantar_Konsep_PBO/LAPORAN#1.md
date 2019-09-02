@@ -18,7 +18,9 @@ Pada percobaan pertama disini saya membuat sebuah class sepeda dan juga class ma
 
 ![contoh screenshot](img/1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program class sepeda : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan1/Sepeda1841720128Arifin.java)
+
+Contoh link kode program class SepedaDemo : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan1/SepedaDemo1841720128Arifin.java)
 
 ### Percobaan 2
 
