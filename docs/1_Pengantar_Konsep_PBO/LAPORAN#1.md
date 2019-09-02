@@ -28,9 +28,9 @@ Pada percobaan kedua masih meneruskan pada percobaan kedua namun ada penambahan 
 
 ![contoh screenshot](img/2.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720128Arifin.java)
+Contoh link kode program class SepedaGunung : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan1/SepedaGunung1841720128Arifin.java)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720128Arifin.java)
+Contoh link kode program class SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan1/SepedaDemo1841720128Arifin.java)
 
 ## Pertanyaan
 
@@ -56,7 +56,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
     ![contoh screenshot](img/5.PNG)
 
-    Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+    Contoh link kode program class SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan1/SepedaDemo1841720128Arifin.java)
 
 6.	Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol
 
