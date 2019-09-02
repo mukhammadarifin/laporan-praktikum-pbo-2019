@@ -56,7 +56,9 @@ Contoh link kode program class SepedaDemo : [ini contoh link ke kode program](..
 
     ![contoh screenshot](img/5.PNG)
 
-    Contoh link kode program class SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Percobaan1/SepedaDemo1841720128Arifin.java)
+    Contoh link kode program class Sepeda : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Pertanyaan/Sepeda1841720128Arifin.java)
+    
+    Contoh link kode program class SepedaDemo : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Pertanyaan/SepedaDemo1841720128Arifin.java)
 
 6.	Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol
 
