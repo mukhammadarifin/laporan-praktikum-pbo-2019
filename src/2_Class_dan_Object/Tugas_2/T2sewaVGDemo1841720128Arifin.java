@@ -24,5 +24,4 @@ public class T2sewaVGDemo1841720128Arifin {
        svg.harga = 200000;
        svg.cetakHasilArifin();
     }
-    
 }
