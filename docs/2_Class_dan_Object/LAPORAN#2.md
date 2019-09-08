@@ -15,7 +15,7 @@
 
 Pada praktikum ini saya menemukan kesulitan dan juga rasa penasaran pada kode program di tugas nomor 4 karena, pada pada kode program tersebut melakukan perhitungan dimana terdapat dua variable yang memiliki tipe data yang berbeda sehingga menyebabkan program menjadi error. Namun setelah saya melakukan perbaikan menggunakan fitur perbaikan program pada netBeans tiba-tiba program berjalan dengan lancar namun saya tidak paham dengan kode program yang diperbaiki dengan fitur yang ada pada netBeans.
 
-![contoh screenshot](img/1.PNG)
+![contoh screenshot](img/bingung.PNG)
 
 ## Percobaan
 
