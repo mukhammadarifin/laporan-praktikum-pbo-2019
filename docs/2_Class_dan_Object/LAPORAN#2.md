@@ -98,17 +98,17 @@ Contoh link kode program pada class TestBarang1841720128Arifin.java : [ini conto
 
     ![contoh screenshot](img/Tugas_2.PNG)
 
-    Contoh link kode program pada class TestBarang1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Tugas_2/T2SewaVG1841720128Arifin.java)
+    Contoh link kode program pada class T2SewaVG1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Tugas_2/T2SewaVG1841720128Arifin.java)
 
-    Contoh link kode program pada class TestBarang1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Tugas_2/T2SewaVGDemo1841720128Arifin.java)
+    Contoh link kode program pada class T2SewaVGDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Tugas_2/T2SewaVGDemo1841720128Arifin.java)
 
 3. Program dari Class diagram Lingkaran
 
     ![contoh screenshot](img/Tugas_3.PNG)
 
-    Contoh link kode program pada class TestBarang1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Tugas_3/T3Lingkaran1841720128Arifin.java)
+    Contoh link kode program pada class T3Lingkaran1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Tugas_3/T3Lingkaran1841720128Arifin.java)
 
-    Contoh link kode program pada class TestBarang1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Tugas_3/T3LingkaranTes1841720128Arifin.java)
+    Contoh link kode program pada class T3LingkaranTes1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Tugas_3/T3LingkaranTes1841720128Arifin.java)
 
 
 4. Program Class diagram Barang
