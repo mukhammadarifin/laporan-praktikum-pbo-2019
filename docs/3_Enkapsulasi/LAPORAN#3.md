@@ -81,6 +81,7 @@ Contoh link kode program pada class Main Anggota1841720128Arifin.java : [ini con
 Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_1/KoperasiDemo1841720128Arifin.java)
 
 
+
 ![contoh screenshot](img/Percobaan_4_2.PNG)
 
 Contoh link kode program pada class Main Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_2/Anggota1841720128Arifin.java)
@@ -166,11 +167,13 @@ Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [in
 
     Contoh link kode program pada Main class EncapTest1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Tugas_1/EncapTest1841720128Arifin.java)
 
+
 2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada saat ditampilkan ke layar nilainya 30, jelaskan mengapa. 
 
     Jawab:
 
     Karena saat kita mengeset age dengan nilai 35 maka secara otomatis akan diproses oleh method setAgeArifin dengan kondisi jika newAge(atribut yang tadi telah di isi dengan nilai 35) bernilai diatas 30 maka age sama dengan 30, maka yang ditampilkan adalah nilai 30.
+
 
 3. Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18. 
 
