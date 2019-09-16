@@ -67,7 +67,7 @@ Pada percobaan ketiga ini saya membuat suatu class yang bernama Anggota184172012
 
 Contoh link kode program pada class Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_3/Anggota1841720128Arifin.java)
 
-Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/2_Class_dan_Object/Percobaan_3/KoperasiDemo1841720128Arifin.java)
+Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_3/KoperasiDemo1841720128Arifin.java)
 
 
 ### Percobaan 4 - Konstruktor, Intansiasi
