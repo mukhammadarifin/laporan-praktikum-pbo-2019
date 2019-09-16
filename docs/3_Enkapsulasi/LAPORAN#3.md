@@ -57,6 +57,10 @@ Contoh link kode program pada Main class MotorDemo1841720128Arifin.java : [ini c
 
     Jawab:
     ![contoh screenshot](img/Pertanyaan_bagian1_3.PNG)
+    
+    Contoh link kode program pada class Motor1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan_1_3/Motor1841720128Arifin.java)
+
+Contoh link kode program pada Main class MotorDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan_1_3/MotorDemo1841720128Arifin.java)
 
 
 ### Percobaan 3 - Getter dan Setter
@@ -179,7 +183,7 @@ Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [in
 
     ![contoh screenshot](img/Tugas_3.PNG)
 
-    Contoh link kode program pada class EncapDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Tugas_3/T2SewaVG1841720128Arifin.java)
+    Contoh link kode program pada class EncapDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Tugas_3/EncapDemo1841720128Arifin.java)
 
     Contoh link kode program pada Main class EncapTest1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Tugas_3/EncapTest1841720128Arifin.java)
 
