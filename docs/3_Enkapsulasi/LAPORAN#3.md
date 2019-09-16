@@ -163,7 +163,7 @@ Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [in
 
     ![contoh screenshot](img/Tugas_1.PNG)
 
-    Contoh link kode program pada class EncapDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Tugas_1/T2SewaVG1841720128Arifin.java)
+    Contoh link kode program pada class EncapDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Tugas_1/EncapDemo1841720128Arifin.java)
 
     Contoh link kode program pada Main class EncapTest1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Tugas_1/EncapTest1841720128Arifin.java)
 
