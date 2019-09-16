@@ -60,7 +60,7 @@ Contoh link kode program pada Main class MotorDemo1841720128Arifin.java : [ini c
     
     Contoh link kode program pada class Motor1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan_1_3/Motor1841720128Arifin.java)
 
-Contoh link kode program pada Main class MotorDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan_1_3/MotorDemo1841720128Arifin.java)
+    Contoh link kode program pada Main class MotorDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Pertanyaan_1_3/MotorDemo1841720128Arifin.java)
 
 
 ### Percobaan 3 - Getter dan Setter
@@ -71,7 +71,7 @@ Pada percobaan ketiga ini saya membuat suatu class yang bernama Anggota184172012
 
 Contoh link kode program pada class Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_3/Anggota1841720128Arifin.java)
 
-Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_3/KoperasiDemo1841720128Arifin.java)
+Contoh link kode program pada Main class KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_3/KoperasiDemo1841720128Arifin.java)
 
 
 ### Percobaan 4 - Konstruktor, Intansiasi
@@ -82,7 +82,7 @@ Pada percobaan keempat ini saya melakukan beberapa perubahan pada main class Kop
 
 Contoh link kode program pada class Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_1/Anggota1841720128Arifin.java)
 
-Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_1/KoperasiDemo1841720128Arifin.java)
+Contoh link kode program pada Main class KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_1/KoperasiDemo1841720128Arifin.java)
 
 
 
@@ -90,7 +90,7 @@ Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [in
 
 Contoh link kode program pada class Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_2/Anggota1841720128Arifin.java)
 
-Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_2/KoperasiDemo1841720128Arifin.java)
+Contoh link kode program pada Main class KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_2/KoperasiDemo1841720128Arifin.java)
 
 
 ### Pertanyaan
