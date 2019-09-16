@@ -76,7 +76,7 @@ Pada percobaan keempat ini saya melakukan beberapa perubahan pada main class Kop
 
 ![contoh screenshot](img/Percobaan_4_1.PNG)
 
-Contoh link kode program pada class Main Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_1/Anggota1841720128Arifin.java)
+Contoh link kode program pada class Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_1/Anggota1841720128Arifin.java)
 
 Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_1/KoperasiDemo1841720128Arifin.java)
 
@@ -84,7 +84,7 @@ Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [in
 
 ![contoh screenshot](img/Percobaan_4_2.PNG)
 
-Contoh link kode program pada class Main Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_2/Anggota1841720128Arifin.java)
+Contoh link kode program pada class Anggota1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_2/Anggota1841720128Arifin.java)
 
 Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/3_Enkapsulasi/Percobaan_4_2/KoperasiDemo1841720128Arifin.java)
 
