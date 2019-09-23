@@ -245,7 +245,7 @@ Contoh link kode program pada class main MainPercobaan4.java : [ini contoh link 
 Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung). 
  
 
-![contoh screenshot](img/Tugas.PNG)
+![contoh screenshot](img/Tugas1.PNG)
 
 Contoh link kode program pada class Kursi1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Kursi1841720128Arifin.java)
 
