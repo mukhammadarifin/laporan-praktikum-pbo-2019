@@ -195,13 +195,13 @@ Pada percobaan keempat ini saya membuat tiga buah class dan satu buah main class
 
 ![contoh screenshot](img/Percobaan_4.PNG)
 
-Contoh link kode program pada class Pegawai1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_4/Penumpang1841720128Arifin.java)
+Contoh link kode program pada class Penumpang1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_4/Penumpang1841720128Arifin.java)
 
-Contoh link kode program pada class Pegawai1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_4/Kursi1841720128Arifin.java)
+Contoh link kode program pada class Kursi1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_4/Kursi1841720128Arifin.java)
 
-Contoh link kode program pada class Pegawai1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_4/Gerbong1841720128Arifin.java)
+Contoh link kode program pada class Gerbong1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_4/Gerbong1841720128Arifin.java)
 
-Contoh link kode program pada class Main KoperasiDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_4/MainPercobaan4.java)
+Contoh link kode program pada class main MainPercobaan4.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_4/MainPercobaan4.java)
 
 
 ### Pertanyaan
