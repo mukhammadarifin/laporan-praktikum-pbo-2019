@@ -255,7 +255,7 @@ Contoh link kode program pada class Penumpang1841720128Arifin.java : [ini contoh
 
 Contoh link kode program pada class Pesawat1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/Pesawat1841720128Arifin.java)
 
-Contoh link kode program pada class main MainTugas.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/MainTugas.java)
+Contoh link kode program pada main class MainTugas.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Tugas/MainTugas.java)
 
 ## Kesimpulan
 
