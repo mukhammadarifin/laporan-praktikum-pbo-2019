@@ -136,7 +136,7 @@ Contoh link kode program pada main class MainPercobaan2.java : [ini contoh link 
  
         System.out.println(p.getMobilArifin().getMerkArifin()); 
  
-Jadi untuk apakah sintaks p.getMobilArifin().getMerkArifin() yang ada di dalam method main tersebut?
+    Jadi untuk apakah sintaks p.getMobilArifin().getMerkArifin() yang ada di dalam method main tersebut?
 
     Jawab:
     
