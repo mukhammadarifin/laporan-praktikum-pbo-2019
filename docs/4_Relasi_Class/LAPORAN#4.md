@@ -92,7 +92,7 @@ Contoh link kode program pada class Sopir1841720128Arifin.java : [ini contoh lin
 
 Contoh link kode program pada class Pelanggan1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_2/Pelanggan1841720128Arifin.java)
 
-Contoh link kode program pada Main class MotorDemo1841720128Arifin.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_2/MainPercobaan2.java)
+Contoh link kode program pada main class MainPercobaan2.java : [ini contoh link ke kode program](../../src/4_Relasi_Class/Percobaan_2/MainPercobaan2.java)
 
 
 ### Pertanyaan
