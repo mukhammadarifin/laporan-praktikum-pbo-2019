@@ -288,7 +288,7 @@ Contoh kode program pada class StaffHarian1841720128Arifin.java : [ini link ke k
 Contoh kode program pada class StaffTetap1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/StaffTetap1841720128Arifin.java)
 
 
-Contoh kode program pada main class Inheritance1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/Inheritance1841720128Arifin.java)
+Contoh kode program pada main class Inheritance1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/Inheritance11841720128Arifin.java)
 
 
 ### Pertanyaan
