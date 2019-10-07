@@ -86,13 +86,13 @@ Contoh kode program pada main class Percobaantest1841720128Arifin.java : [ini li
     ![screenshot](img/Pertanyaan2_1.PNG)
 
 
-Contoh kode program pada class ClassA1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Pertanyaan_2/ClassA1841720128Arifin.java)
+    Contoh kode program pada class ClassA1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Pertanyaan_2/ClassA1841720128Arifin.java)
 
 
-Contoh kode program pada class ClassB1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Pertanyaan_2/ClassB1841720128Arifin.java)
+    Contoh kode program pada class ClassB1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Pertanyaan_2/ClassB1841720128Arifin.java)
 
 
-Contoh kode program pada main class Percobaantest1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Pertanyaan_2/Percobaan21841720128Arifin.java)
+    Contoh kode program pada main class Percobaantest1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Pertanyaan_2/Percobaan21841720128Arifin.java)
 
 
 2. Jelaskan apa penyebab program pada percobaan 2 ketika dijalankan terdapat error!
