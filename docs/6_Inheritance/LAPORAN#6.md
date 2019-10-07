@@ -67,13 +67,13 @@ Pada percobaan kedua yang akan saya lakukan adalah membuat dua buah class dan sa
 ![screenshot](img/Percobaan_2.PNG)
 
 
-Contoh kode program pada class ClassA1841720128Arifin.java : [ini link ke kode program](../../src/6_Iheritance/Percobaan_2/ClassA1841720128Arifin.java)
+Contoh kode program pada class ClassA1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_2/ClassA1841720128Arifin.java)
 
 
-Contoh kode program pada class ClassB1841720128Arifin.java : [ini link ke kode program](../../src/6_Iheritance/Percobaan_2/ClassB1841720128Arifin.java)
+Contoh kode program pada class ClassB1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_2/ClassB1841720128Arifin.java)
 
 
-Contoh kode program pada Main class Percobaan21841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_2/Percobaan21841720128Arifin.java)
+Contoh kode program pada main class Percobaantest1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_2/Percobaan21841720128Arifin.java)
 
 
 ### Pertanyaan
