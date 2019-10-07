@@ -282,16 +282,13 @@ Pada percobaan keenam ini masih berhubungan dengan percobaan kelima dimana saya 
 ![contoh screenshot](img/Percobaan_6.PNG)
 
 
-Contoh kode program pada class ClassA1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/ClassA1841720128Arifin.java)
+Contoh kode program pada class StaffHarian1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/StaffHarian1841720128Arifin.java)
 
 
-Contoh kode program pada class ClassB1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/ClassB1841720128Arifin.java)
+Contoh kode program pada class StaffTetap1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/StaffTetap1841720128Arifin.java)
 
 
-Contoh kode program pada class ClassC1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/ClassC1841720128Arifin.java)
-
-
-Contoh kode program pada main class Percobaan41841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/Percobaan41841720128Arifin.java)
+Contoh kode program pada main class Inheritance1841720128Arifin.java : [ini link ke kode program](../../src/6_Inheritance/Percobaan_6/Inheritance1841720128Arifin.java)
 
 
 ### Pertanyaan
