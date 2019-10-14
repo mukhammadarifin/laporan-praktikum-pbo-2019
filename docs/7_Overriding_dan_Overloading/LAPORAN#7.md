@@ -38,7 +38,7 @@ Contoh kode program pada class Staff1841720128Arifin.java : [ini link ke kode pr
 Contoh kode program pada class Manager1841720128Arifin.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Percobaan_1/Manager1841720128Arifin.java)
 
 
-Contoh kode program pada main class Percobaantest1841720128Arifin.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Percobaan_1/Utama1841720128Arifin.java)
+Contoh kode program pada main class Utama1841720128Arifin.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Percobaan_1/Utama1841720128Arifin.java)
 
 
 
