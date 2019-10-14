@@ -129,7 +129,7 @@ Contoh kode program pada class Dosen1841720128Arifin.java : [ini link ke kode pr
 Contoh kode program pada class Mahasiswa1841720128Arifin.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Tugas_2/Mahasiswa1841720128Arifin.java)
 
 
-Contoh kode program pada class main MainManusia1841720128.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Tugas_2/MainManusia1841720128.java)
+Contoh kode program pada class main MainManusia1841720128Arifin.java : [ini link ke kode program](../../src/7_Overriding_dan_Overloading/Tugas_2/MainManusia1841720128Arifin.java)
 
 
 ## Kesimpulan
