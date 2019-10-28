@@ -137,7 +137,7 @@ Contoh kode program pada class interface Iberprestasi1841720128Arifin.java : [in
 Contoh kode program pada class interface Icumlaude1841720128Arifin.java : [ini link ke kode program](../../src/9_Abstract_Class_dan_Interface/Percobaan_3/Icumlaude1841720128Arifin.java)
 
 
-Contoh kode program pada class Manager1841720128Arifin.java : [ini link ke kode program](../../src/9_Abstract_Class_dan_Interface/Percobaan_3/Mahasiswa1841720128Arifin.java)
+Contoh kode program pada class Mahasiswa1841720128Arifin.java : [ini link ke kode program](../../src/9_Abstract_Class_dan_Interface/Percobaan_3/Mahasiswa1841720128Arifin.java)
 
 
 Contoh kode program pada class PascaSarjana1841720128Arifin.java : [ini link ke kode program](../../src/9_Abstract_Class_dan_Interface/Percobaan_3/PascaSarjana1841720128Arifin.java)
