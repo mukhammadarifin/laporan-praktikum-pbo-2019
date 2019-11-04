@@ -286,10 +286,10 @@ Contoh kode program pada class WalkingZombie1841720128Arifin.java : [ini link ke
 Contoh kode program pada class JumpingZombie1841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Tugas/JumpingZombie1841720128Arifin.java)
 
 
-Contoh kode program pada class Barrier184172128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Tugas/Barrier184172128Arifin.java)
+Contoh kode program pada class Barrier1841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Tugas/Barrier1841720128Arifin.java)
 
 
-Contoh kode program pada class Plant184172128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Tugas/Plant184172128Arifin.java)
+Contoh kode program pada class Plant1841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Tugas/Plant1841720128Arifin.java)
 
 
 Contoh kode program pada main class Tester11841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Tugas/Tester1841720128Arifin.java)
