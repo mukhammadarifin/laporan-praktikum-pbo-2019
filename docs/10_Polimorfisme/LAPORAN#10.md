@@ -108,7 +108,7 @@ Contoh kode program pada interface Payable1841720128Arifin.java : [ini link ke k
 Contoh kode program pada class PermanentEmployee1841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_2/PermanentEmployee1841720128Arifin.java)
 
 
-Contoh kode program pada main class Tester11841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_2/Tester21841720128Arifin.java)
+Contoh kode program pada main class Tester21841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_2/Tester21841720128Arifin.java)
 
 
 ### Pertanyaan
@@ -160,7 +160,7 @@ Contoh kode program pada class PermanentEmployee1841720128Arifin.java : [ini lin
 Contoh kode program pada class ElectricityBill184172128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_3/ElectricityBill184172128Arifin.java)
 
 
-Contoh kode program pada main class Tester11841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_3/Tester31841720128Arifin.java)
+Contoh kode program pada main class Tester31841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_3/Tester31841720128Arifin.java)
 
 
 ### Pertanyaan
@@ -210,7 +210,7 @@ Contoh kode program pada class ElectricityBill184172128Arifin.java : [ini link k
 Contoh kode program pada class ElectricityBill184172128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_4/Owner184172128Arifin.java)
 
 
-Contoh kode program pada main class Tester11841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_4/Tester41841720128Arifin.java)
+Contoh kode program pada main class Tester41841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_4/Tester41841720128Arifin.java)
 
 
 ### Pertanyaan
