@@ -37,7 +37,7 @@ Contoh kode program pada class InternshipEmployee1841720128Arifin.java : [ini li
 Contoh kode program pada class PermanentEmployee1841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_1/PermanentEmployee1841720128Arifin.java)
 
 
-Contoh kode program pada class ElectricityBill184172128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_1/ElectricityBill184172128Arifin.java)
+Contoh kode program pada class ElectricityBill1841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_1/ElectricityBill1841720128Arifin.java)
 
 
 Contoh kode program pada main class Tester11841720128Arifin.java : [ini link ke kode program](../../src/10_Polimorfisme/Percobaan_1/Tester11841720128Arifin.java)
