@@ -12,7 +12,7 @@ Setelah melakukan percobaan pada jobsheet ini, diharapkan mahasiswa mampu:
 
 ## Ringkasan Materi
 
-Pada praktikum ini saya mengalami kesulitan konsep class abstract, untuk solusi dari permasalahan yang saya alami dapat diselesaikan dengan lebih belajar lagi.
+Pada praktikum ini saya mengalami kesulitan pada tugas, solusi yang saya lakukan untuk mengatasi permasalahan tersebut adalah bertanya pada teman yang bisa dan paham dengan tugas yang dimaksudkan.
 
 
 ## Percobaan
