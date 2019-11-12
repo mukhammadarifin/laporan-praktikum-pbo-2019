@@ -156,7 +156,7 @@ Pada percobaan keempat ini saya membuat satu buah JFrame Form dengan nama Swing2
 Contoh kode program pada JFrame Form Swing1841720128Arifin.form : [ini link ke kode program](../../src/11_GUI/Percobaan_5/Swing21841720128Arifin.form)
 
 
-Contoh kode program pada class Swing1841720128Arifin.java : [ini link ke kode program](../../src/11_GUI/Percobaan_5/Swing21841720128Arifin.java)
+Contoh kode program pada class Swing21841720128Arifin.java : [ini link ke kode program](../../src/11_GUI/Percobaan_5/Swing21841720128Arifin.java)
 
 
 ### Pertanyaan
@@ -179,10 +179,10 @@ Halaman 2
     ![screenshot](img/Pertanyaan5_2.PNG)
 
 
-    Contoh kode program pada JFrame Form Swing1841720128Arifin.form : [ini link ke kode program](../../src/11_GUI/Pertanyaan5/Swing21841720128Arifin.form)
+    Contoh kode program pada JFrame Form Swing21841720128Arifin.form : [ini link ke kode program](../../src/11_GUI/Pertanyaan5/Swing21841720128Arifin.form)
 
 
-    Contoh kode program pada class Swing1841720128Arifin.java : [ini link ke kode program](../../src/11_GUI/Pertanyaan5/Swing21841720128Arifin.java)
+    Contoh kode program pada class Swing21841720128Arifin.java : [ini link ke kode program](../../src/11_GUI/Pertanyaan5/Swing21841720128Arifin.java)
 
 
 ## Tugas
