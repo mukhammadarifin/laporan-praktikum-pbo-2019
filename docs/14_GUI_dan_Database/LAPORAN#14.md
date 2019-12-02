@@ -158,7 +158,7 @@ Jawaban:
 ![screenshot](img/Tugas.PNG)
 
 
-Contoh kode program pada class Buku1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Tugas/Peminjaman1841720128Arifin.java)
+Contoh kode program pada class Peminjaman1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Tugas/Peminjaman1841720128Arifin.java)
 
 
 Contoh kode program pada JFrame FrmPeminjaman1841720128Arifin.form : [ini link ke kode program](../../src/14_GUI_dan_Database/Tugas/FrmPeminjaman1841720128Arifin.form)
