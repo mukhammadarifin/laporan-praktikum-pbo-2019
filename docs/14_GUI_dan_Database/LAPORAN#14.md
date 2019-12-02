@@ -57,7 +57,7 @@ Pada percobaan kelima ini saya membuat satu buah main class dengan nama TestBack
 Contoh kode program pada class Kategori1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_5/Kategori1841720128Arifin.java)
 
 
-Contoh kode program pada main class TestBackend1841720128Arifin.form : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_5/TestBackend1841720128Arifin.form)
+Contoh kode program pada main class TestBackend1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_5/TestBackend1841720128Arifin.java)
 
 
 ### Percobaan 6
