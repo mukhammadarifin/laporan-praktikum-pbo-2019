@@ -1,4 +1,4 @@
-# Laporan Praktikum #13 - Collection (List, Set, Map) dan Database
+# Laporan Praktikum #14 - GUI dan Database
 
 ## Kompetensi
 
