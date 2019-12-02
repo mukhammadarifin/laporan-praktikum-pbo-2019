@@ -119,7 +119,7 @@ Pada percobaan kesembilan ini saya membuat satu buah class bernama Buku184172012
 Contoh kode program pada class Buku1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_9/Buku1841720128Arifin.java)
 
 
-Contoh kode program pada main class TestBackendBuku1841720128Arifin.form : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_9/TestBackendBuku1841720128Arifin.form)
+Contoh kode program pada main class TestBackendBuku1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_9/TestBackendBuku1841720128Arifin.java)
 
 
 ### Percobaan 10
