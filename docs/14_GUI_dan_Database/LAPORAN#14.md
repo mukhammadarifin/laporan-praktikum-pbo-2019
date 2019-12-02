@@ -71,10 +71,10 @@ Pada percobaan keenam ini saya membuat satu buah JFrame dengan nama FrmKategori1
 Contoh kode program pada class Kategori1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_6/Kategori1841720128Arifin.java)
 
 
-Contoh kode program pada JFrame FrmKategori1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_5/FrmKategori1841720128Arifin.form)
+Contoh kode program pada JFrame FrmKategori1841720128Arifin.form : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_6/FrmKategori1841720128Arifin.form)
 
 
-Contoh kode program pada class FrmKategori1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_5/FrmKategori1841720128Arifin.java)
+Contoh kode program pada class FrmKategori1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_6/FrmKategori1841720128Arifin.java)
 
 
 ### Percobaan 7
