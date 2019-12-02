@@ -36,7 +36,7 @@ Pada percobaan kedua saya membuat satu project baru dengan nama perpustakaan dim
 Pada percobaan ketiga saya membuat satu buah class dengan nama DBHelper1841720128Arifin pada class ini berfungsi sebagai class controller di bagian yang berhubungan dengan database seperti koneksi, insert query, execute query hingga menampilkan hasil dari execute query tersebut.
 
 
-Contoh kode program pada main class DemoHashMap1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_3/DBHelper1841720128Arifin.java)
+Contoh kode program pada class DBHelper1841720128Arifin.java : [ini link ke kode program](../../src/14_GUI_dan_Database/Percobaan_3/DBHelper1841720128Arifin.java)
 
 
 ### Percobaan 4
